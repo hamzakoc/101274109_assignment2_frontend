@@ -14,7 +14,7 @@ export default class Home extends Component {
 
 
                     <p >
-                        <a class="btn btn-primary btn-sm" href="https://github.com/hamzakoc" target="_blank" role="button">GitHub</a>
+                        <a class="btn btn-primary btn-sm" href="https://github.com/hamzakoc/101274109_assignment2_frontend" target="_blank" role="button">GitHub</a>
                     </p>
                 </div>
             </div>
