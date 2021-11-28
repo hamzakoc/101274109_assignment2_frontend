@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 // const base_url = 'http://localhost:9090/api/v1/employees/';
 
 //heroku
-const base_url = 'https://gbc-crud-backend.herokuapp.com/api/v1/employees/';
+const base_url = 'https://gbc-crud-backend.herokuapp.com/api/v1/employees/'
 
 
 const Employees = props => (

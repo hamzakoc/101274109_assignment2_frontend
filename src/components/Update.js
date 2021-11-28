@@ -6,7 +6,7 @@ import axios from 'axios';
 // const base_url = 'http://localhost:9090/api/v1/employees/';
 
 //heroku
-const base_url = 'https://gbc-crud-backend.herokuapp.com/api/v1/employees/';
+const base_url = 'https://gbc-crud-backend.herokuapp.com/api/v1/employees/'
 
 export default class Update extends Component {
 

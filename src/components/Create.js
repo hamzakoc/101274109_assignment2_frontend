@@ -7,7 +7,7 @@ import axios from 'axios';
 
 //heroku
 
-const base_url = 'https://gbc-crud-backend.herokuapp.com/api/v1/employees/';
+const base_url = 'https://gbc-crud-backend.herokuapp.com/api/v1/employees/'
 
 
 
